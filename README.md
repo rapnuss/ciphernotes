@@ -1,4 +1,4 @@
-# [ciphernotes.com](https://ciphernotes.com)
+# ciphernotes
 
 A end-to-end encrypted note taking alternative to Google Keep. Offline and cloud synchronized.
 
@@ -19,6 +19,7 @@ A end-to-end encrypted note taking alternative to Google Keep. Offline and cloud
 - Fully keyboard navigatable.
 - Keyboard shortcuts, open notes with cmd+k.
 - Text-editor with auto indent.
+- Archive unused notes.
 
 ## Bug Reports and Feature Requests
 
@@ -27,5 +28,6 @@ Please report bugs and request features on the [GitHub Issues](https://github.co
 ## Links
 
 - [Web-App](https://ciphernotes.com)
+- [Play Store](https://play.google.com/store/apps/details?id=com.ciphernotes.twa)
 - [Privacy Policy](https://ciphernotes.com/privacy)
 - [Terms & Conditions](https://ciphernotes.com/terms)
