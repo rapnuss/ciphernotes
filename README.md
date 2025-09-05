@@ -19,11 +19,12 @@ A end-to-end encrypted note taking alternative to Google Keep. Offline and cloud
 - Import files of any type.
 - Organize with labels.
 - Google Keep import.
-- Export notes as JSON.
+- Export and import notes including files.
 - Fully keyboard navigatable.
-- Keyboard shortcuts, open notes with cmd+k.
-- Text-editor with auto indent.
+- Keyboard shortcuts, open notes with cmd+k or ctrl+k.
+- Text-editor with multi-cursor support and other shortcuts.
 - Archive unused notes.
+- Share encryption key via QR-Code directly from app to app.
 
 ## Bug Reports and Feature Requests
 
@@ -35,3 +36,4 @@ Please report bugs and request features on the [GitHub Issues](https://github.co
 - [Play Store](https://play.google.com/store/apps/details?id=com.ciphernotes.twa)
 - [Privacy Policy](https://ciphernotes.com/privacy)
 - [Terms & Conditions](https://ciphernotes.com/terms)
+- [Self Hosting Image](https://hub.docker.com/r/rapnuss/ciphernotes)
